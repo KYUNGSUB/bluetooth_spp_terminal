@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="temperature_label">온도:</string>
+    <string name="temperature_unit">도</string>
+    <string name="humidity_label">습도:</string>
+</resources>
